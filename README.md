@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+
 # Cyber-Threat-Intelligence
 Compartilhamento de informação sobre ameaças e recursos de pesquisa.
 Em resumo Threat Intel é a coleta e analise de informações que permite entender possiveis ameaças antecipadamente e acelerar detecção ou resposta. Isso permite entender se existe a sua empresa é um possivel alvo de atores maliciosos sekja por motivos `Geopoliticos`, `Cyber-espionagem`, `competição industrial`, `sabotagem`, `hacktivismo`, entre outros.
