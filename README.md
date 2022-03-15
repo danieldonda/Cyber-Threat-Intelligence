@@ -4,7 +4,7 @@ Em resumo Threat Intel é a coleta e analise de informações que permite entend
 Essa analise permite entender se determinados comportamentos de ataque poderão ser direcionados a sua empresa e então tomar ações proativas. Isso é possivel pois no processo de coleta e análise de `CTI(Cyber Threat Intelligence)` vamos encontrar diversos artefatos que correlacionados indicam comportamentos ou relações com grupos especializados que executam ataques cibernéticos sofisticados chamados de `APT(Advanced Persistent Threat)` . O termo APT tmabém se refere a grupos de atores maliciosos, geralmente `nation state` ou `state-sponsored group`. Os grupos APT possuem gteralmente motivações políticas ou econômicas
 
 ## Threat hunting - hipótese
-O processo de ´Threat hunting pode ser dividido em três etapas:
+O processo de `Threat hunting` pode ser dividido em três etapas:
 
 1. Criar uma hipótese realística
 2. Executá-la
@@ -19,7 +19,7 @@ O processo de ´Threat hunting pode ser dividido em três etapas:
 Um **IOC** é um dado forense que tem o potencial de identificar atividades maliciosas em um sistema. Em outras palavras, um IOC é uma forte indicação que alerta os **Threat Hunters** sobre uma ameaça potencial.
 
 ------------
-LINKS by https://github.com/0x4143/malware-gems
+LINKS by [0x4143](https://github.com/0x4143/malware-gems "0x4143")
 - ThreatMiner - https://www.threatminer.org/
 - RiskIQ Community - https://community.riskiq.com/home
 - PasteBin - https://pastebin.com/
