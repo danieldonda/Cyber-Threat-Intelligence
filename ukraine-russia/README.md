@@ -1,7 +1,9 @@
 # Material sobre o conflito Ucrania e Russia 2022
 ![](https://user-images.githubusercontent.com/16530643/158698961-1bb76daf-8bc7-4991-b56e-0aefff097757.png)
-*Despacho militar de guerra Rússia-Ucrânia: 15 de março de 2022
+
+*A imagem acima representa o despacho militar de guerra Rússia-Ucrânia: 15 de março de 2022
 Um resumo dos principais desenvolvimentos no campo de batalha no dia 20 da invasão multifacetada da Rússia pela Rússia.*
+Fonte: https://www.aljazeera.com/news/2022/3/9/russia-ukraine-war-military-dispatch-march-9-2022
 
 ## Documentos
 
