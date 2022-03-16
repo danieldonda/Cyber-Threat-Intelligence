@@ -3,7 +3,14 @@
 
 *A imagem acima representa o despacho militar de guerra Rússia-Ucrânia: 15 de março de 2022
 Um resumo dos principais desenvolvimentos no campo de batalha no dia 20 da invasão multifacetada da Rússia pela Rússia.*
+
 Fonte: https://www.aljazeera.com/news/2022/3/9/russia-ukraine-war-military-dispatch-march-9-2022
+
+![](https://github.com/curated-intel/Ukraine-Cyber-Operations/raw/main/UkraineTimelineUpdated.png)
+
+![](https://github.com/curated-intel/Ukraine-Cyber-Operations/raw/main/Russia-Ukraine%20Cyberwar.png)
+
+
 
 ## Documentos
 
