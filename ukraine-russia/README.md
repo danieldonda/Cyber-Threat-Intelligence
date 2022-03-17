@@ -40,11 +40,12 @@ Fonte: https://www.aljazeera.com/news/2022/3/9/russia-ukraine-war-military-dispa
 - [WhisperGate] https://www.cybereason.com/blog/cybereason-vs.-whispergate-wiper
 - [WhisperGate] https://www.crowdstrike.com/blog/technical-analysis-of-whispergate-malware/
 - [WhisperGate] https://www.cyberscoop.com/ukraine-wiper-malware-eset-sentinelone-whispergate/
+- [Ghostwriter] https://www.darkreading.com/attacks-breaches/russian-apt-steps-up-malicious-activity-in-ukraine
 - [Gafgyt]  https://threats.kaspersky.com/br/threat/Backdoor.Linux.Gafgyt/
 
 ## APT Groups
 - 
-- UNC1151 
+- UNC1151 :belarus:
 - Gamaredon (ACTINIUM,PrimitiveBear, Armageddon)
 - UAC-0056 (SaintBear, UNC2589, TA471)
 - FancyBear/APT28
