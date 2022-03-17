@@ -10,13 +10,11 @@ Fonte: https://www.aljazeera.com/news/2022/3/9/russia-ukraine-war-military-dispa
 
 ![](https://github.com/curated-intel/Ukraine-Cyber-Operations/raw/main/Russia-Ukraine%20Cyberwar.png)
 
-
-
+-----------------------
 ## Documentos
-
 - [Feared_Russian_Invasion_of_Ukraine_Could_Have_Global_Impacts_in_Cyberspace.pdf](https://github.com/danieldonda/Cyber-Threat-Intelligence/blob/main/ukraine-russia/Feared_Russian_Invasion_of_Ukraine_Could_Have_Global_Impacts_in_Cyberspace.pdf)
 - [ACTI_POV_UkraineCrisis_20220310_TLP-WHITE-CLEAN.pdf](https://github.com/danieldonda/Cyber-Threat-Intelligence/blob/main/ukraine-russia/ACTI_POV_UkraineCrisis_20220310_TLP-WHITE-CLEAN.pdf)
-
+-----------------------
 ## Links
 - [NEWS] https://github.com/curated-intel/Ukraine-Cyber-Operations
 - [NEWS] https://www.cnnbrasil.com.br/tudo-sobre/ucrania/
@@ -27,8 +25,8 @@ Fonte: https://www.aljazeera.com/news/2022/3/9/russia-ukraine-war-military-dispa
 - [INFO] https://msrc-blog.microsoft.com/2022/02/28/analysis-resources-cyber-threat-activity-ukraine/?culture=en-us&country=US
 - [NEWS] https://www.ibm.com/blogs/psirt/an-update-on-russia-ukraine/ 
 - [NEWS] https://www.secureworks.com/blog/russia-ukraine-crisis
-
-##  WhisperGate Malware
+-----------------------
+## Malwares
 - [HermeticWiper] https://www.welivesecurity.com/2022/02/24/hermeticwiper-new-data-wiping-malware-hits-ukraine/
 - [HermeticWiper] https://www.sentinelone.com/labs/hermetic-wiper-ukraine-under-attack/
 - [HermeticWiper] https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia 
@@ -42,11 +40,9 @@ Fonte: https://www.aljazeera.com/news/2022/3/9/russia-ukraine-war-military-dispa
 - [WhisperGate] https://www.cyberscoop.com/ukraine-wiper-malware-eset-sentinelone-whispergate/
 - [Ghostwriter] https://www.darkreading.com/attacks-breaches/russian-apt-steps-up-malicious-activity-in-ukraine
 - [Gafgyt]  https://threats.kaspersky.com/br/threat/Backdoor.Linux.Gafgyt/
-
+-----------------------
 ## APT Groups
-- 
-- UNC1151 :belarus:
-- Gamaredon (ACTINIUM,PrimitiveBear, Armageddon)
-- UAC-0056 (SaintBear, UNC2589, TA471)
-- FancyBear/APT28
-- 
+- UNC1151 :belarus: [Bielo-Rússia]
+- Gamaredon (ACTINIUM,PrimitiveBear, Armageddon) :ru: [Rússia]
+- UAC-0056 (SaintBear, UNC2589, TA471, Lorec53) :ru: [Rússia]
+- APT28 (TG-4127,FancyBear)  :ru: [Rússia]
