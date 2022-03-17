@@ -28,7 +28,7 @@ Fonte: https://www.aljazeera.com/news/2022/3/9/russia-ukraine-war-military-dispa
 - [NEWS] https://www.ibm.com/blogs/psirt/an-update-on-russia-ukraine/ 
 - [NEWS] https://www.secureworks.com/blog/russia-ukraine-crisis
 
-##  / WhisperGate Malware
+##  WhisperGate Malware
 - [HermeticWiper] https://www.welivesecurity.com/2022/02/24/hermeticwiper-new-data-wiping-malware-hits-ukraine/
 - [HermeticWiper] https://www.sentinelone.com/labs/hermetic-wiper-ukraine-under-attack/
 - [HermeticWiper] https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia 
