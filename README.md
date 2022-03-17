@@ -14,7 +14,7 @@ Compartilhamento de informação sobre ameaças e recursos de pesquisa.
   * [Quem seguir ?](#quem-seguir--)
   * [Atenção](#aten--o)
   * [Ucrania e Russia 2022](#aten--o)
-  * ![:fire:Material sobre o conflito Ucrania e Russia 2022 (https://github.com/danieldonda/Cyber-Threat-Intelligence/tree/main/ukraine-russia)
+  * [:fire: Conflito Ucrania e Russia 2022](https://github.com/danieldonda/Cyber-Threat-Intelligence/tree/main/ukraine-russia)
 
 
 ## Threat Intel
