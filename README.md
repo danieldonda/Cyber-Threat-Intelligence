@@ -13,9 +13,8 @@ Compartilhamento de informação sobre ameaças e recursos de pesquisa.
   * [LINKS](#links)
   * [Quem seguir ?](#quem-seguir--)
   * [Atenção](#aten--o)
-  * [:fire:Material sobre o conflito Ucrania e Russia 2022 (https://github.com/danieldonda/Cyber-Threat-Intelligence/tree/main/ukraine-russia)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+  * [Ucrania e Russia 2022](#aten--o)
+  * ![:fire:Material sobre o conflito Ucrania e Russia 2022 (https://github.com/danieldonda/Cyber-Threat-Intelligence/tree/main/ukraine-russia)
 
 
 ## Threat Intel
