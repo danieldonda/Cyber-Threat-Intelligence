@@ -7,6 +7,16 @@ Essa analise permite entender se determinados comportamentos de ataque poderão 
 Lista de grupos APT 
 https://attack.mitre.org/groups/ 
 
+## Threat hunting
+```mermaid
+flowchart TD
+    A[Coleta e processamento de dados] --Dados de eventos, PCAP, EDR - SIEM --> B{Gerar hipóteses}
+    B --> C[Hunt]
+    C --Forense, intelligence analysis, Infosec--> D[Identificar ameaça]
+    D --Confirmação ou não da hipótese--> E[Responder/Proteger]
+    E --> B
+```
+
 ## Threat hunting - hipótese
 O processo de `Threat hunting` pode ser dividido em três etapas:
 
