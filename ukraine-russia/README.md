@@ -28,10 +28,24 @@ Fonte: https://www.aljazeera.com/news/2022/3/9/russia-ukraine-war-military-dispa
 - [NEWS] https://www.ibm.com/blogs/psirt/an-update-on-russia-ukraine/ 
 - [NEWS] https://www.secureworks.com/blog/russia-ukraine-crisis
 
-## HermeticWiper Malware
-- https://www.welivesecurity.com/2022/02/24/hermeticwiper-new-data-wiping-malware-hits-ukraine/
-- https://www.sentinelone.com/labs/hermetic-wiper-ukraine-under-attack/
-- https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia 
-- https://www.secureworks.com/blog/disruptive-hermeticwiper-attacks-targeting-ukrainian-organizations
-- https://therecord.media/second-data-wiper-attack-hits-ukraine-computer-networks/
-- https://www.crowdstrike.com/blog/how-crowdstrike-falcon-protects-against-wiper-malware-used-in-ukraine-attacks/
+##  / WhisperGate Malware
+- [HermeticWiper] https://www.welivesecurity.com/2022/02/24/hermeticwiper-new-data-wiping-malware-hits-ukraine/
+- [HermeticWiper] https://www.sentinelone.com/labs/hermetic-wiper-ukraine-under-attack/
+- [HermeticWiper] https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia 
+- [HermeticWiper] https://www.secureworks.com/blog/disruptive-hermeticwiper-attacks-targeting-ukrainian-organizations
+- [HermeticWiper] https://therecord.media/second-data-wiper-attack-hits-ukraine-computer-networks/
+- [HermeticWiper] https://www,welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
+- [WhisperGate] https://www.crowdstrike.com/blog/how-crowdstrike-falcon-protects-against-wiper-malware-used-in-ukraine-attacks/
+- [WhisperGate] https://blogs.blackberry.com/en/2022/01/threat-thursday-whispergate-wiper
+- [WhisperGate] https://www.cybereason.com/blog/cybereason-vs.-whispergate-wiper
+- [WhisperGate] https://www.crowdstrike.com/blog/technical-analysis-of-whispergate-malware/
+- [WhisperGate] https://www.cyberscoop.com/ukraine-wiper-malware-eset-sentinelone-whispergate/
+- [Gafgyt]  https://threats.kaspersky.com/br/threat/Backdoor.Linux.Gafgyt/
+
+## APT Groups
+- 
+- UNC1151 
+- Gamaredon (ACTINIUM,PrimitiveBear, Armageddon)
+- UAC-0056 (SaintBear, UNC2589, TA471)
+- FancyBear/APT28
+- 
