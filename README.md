@@ -1,9 +1,18 @@
-# Cyber-Threat-Intelligence
+# Cyber Threat Intelligence
 Compartilhamento de informação sobre ameaças e recursos de pesquisa.
+
+[TOCM]
+[TOC]
+
+
+
+## Threat Intel
+
 Em resumo Threat Intel é a coleta e analise de informações que permite entender possiveis ameaças antecipadamente e acelerar detecção ou resposta. Isso permite entender se existe a sua empresa é um possivel alvo de atores maliciosos seja por motivo `Geopolitico`, `Cyber-espionagem`, `competição industrial`, `sabotagem`, `hacktivismo`, entre outros.
-Essa analise permite entender se determinados comportamentos de ataque poderão ser direcionados a sua empresa e então tomar ações proativas. Isso é possivel pois no processo de coleta e análise de `CTI(Cyber Threat Intelligence)` vamos encontrar diversos artefatos que correlacionados indicam comportamentos ou relações com grupos especializados que executam ataques cibernéticos sofisticados chamados de `APT(Advanced Persistent Threat)` . O termo APT tmabém se refere a grupos de atores maliciosos, geralmente `nation state` ou `state-sponsored group`. Os grupos APT possuem gteralmente motivações políticas ou econômicas.
+Essa analise permite entender se determinados comportamentos de ataque poderão ser direcionados a sua empresa e então tomar ações proativas. Isso é possivel pois no processo de coleta e análise de `CTI(Cyber Threat Intelligence)` vamos encontrar diversos artefatos que correlacionados indicam comportamentos ou relações com grupos especializados.
 
 ## APT Groups
+Os grupos especializados que executam ataques cibernéticos sofisticados chamados de `APT(Advanced Persistent Threat)` . O termo APT também se refere a grupos de atores maliciosos, geralmente `nation state` ou `state-sponsored group`. Os grupos APT possuem gteralmente motivações políticas ou econômicas.
 Lista de grupos APT 
 https://attack.mitre.org/groups/ 
 
@@ -71,11 +80,11 @@ Com a ajuda do MITRE ATTACK voc~e pode descobrir possíveis intrusões e identif
 - PasteScraper - https://github.com/PimmyTrousers/pastescraper
 
 ## Quem seguir ?
-https://twitter.com/DarkReading 
-https://twitter.com/threatpost 
-https://twitter.com/checkmydump 
-https://twitter.com/ale_sp_brazil
-https://twitter.com/hackinarticles
+- https://twitter.com/DarkReading 
+- https://twitter.com/threatpost 
+- https://twitter.com/checkmydump 
+- https://twitter.com/ale_sp_brazil
+- https://twitter.com/hackinarticles
 
 
 ## Atenção
