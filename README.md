@@ -16,7 +16,6 @@ flowchart TD
     D --Confirmação ou não da hipótese--> E[Responder/Proteger]
     E --> B
 ```
-
 ## Threat hunting - hipótese
 O processo de `Threat hunting` pode ser dividido em três etapas:
 
@@ -27,13 +26,30 @@ O processo de `Threat hunting` pode ser dividido em três etapas:
 É melhor combinar indicadores de comprometimento, fatores ambientais. geopoliticos e experiência no setor para criar as buscas de ameaças mais eficazes e de alta eficácia.
 
 ------------
-
-## Indicators of Compromise (IOCs),
+## Indicators of Compromise (IOCs)
 
 Um **IOC** é um dado forense que tem o potencial de identificar atividades maliciosas em um sistema. Em outras palavras, um IOC é uma forte indicação que alerta os **Threat Hunters** sobre uma ameaça potencial.
 
 ------------
-LINKS by [0x4143](https://github.com/0x4143/malware-gems "0x4143")
+## LOLBins
+
+LOLBins é o termo abreviado para Living Off the Land Binaries. 
+
+LOLBins eram  usados em uma base pós-exploração, para ganhar persistência ou aumentar privilégios. Agora estão sendo usadas para contornar a detecção e ajudar na entrega de malware. O que significa que atores mal-intencionados podem usar esses LOLBins para atingir seus objetivos, sem depender de códigos ou arquivos específicos.
+https://lolbas-project.github.io/ 
+
+## TTPs
+![image](https://user-images.githubusercontent.com/16530643/158909630-e8a2f183-a7cb-4fea-b57b-73ab53ebbce6.png)
+
+
+------------
+## LINKS
+- VirusTotal https://www.virustotal.com/gui/ 
+- AlienVault OTX - https://otx.alienvault.com/
+- DORKS https://www.exploit-db.com/google-hacking-database 
+- Mitre ATT Navigator https://mitre-attack.github.io/attack-navigator/ 
+- Using ATT&CK for CTI Training - https://attack.mitre.org/resources/training/cti/
+- YARA - http://virustotal.github.io/yara/ 
 - ThreatMiner - https://www.threatminer.org/
 - RiskIQ Community - https://community.riskiq.com/home
 - PasteBin - https://pastebin.com/
@@ -41,13 +57,18 @@ LINKS by [0x4143](https://github.com/0x4143/malware-gems "0x4143")
 - Censys - https://censys.io/
 - DNSdumpster - https://dnsdumpster.com/
 - URLHaus - https://urlhaus.abuse.ch/
-- AlienVault OTX - https://otx.alienvault.com/
 - C2 Tracker - http://tracker.viriback.com/stats.php
 - MISP - https://www.misp-project.org/
 - The Hive - https://thehive-project.org/
 - Yeti - https://yeti-platform.github.io/
-- Using ATT&CK for CTI Training - https://attack.mitre.org/resources/training/cti/
 - PasteScraper - https://github.com/PimmyTrousers/pastescraper
+
+## Quem seguir ?
+https://twitter.com/DarkReading 
+https://twitter.com/threatpost 
+https://twitter.com/checkmydump 
+https://twitter.com/ale_sp_brazil
+https://twitter.com/hackinarticles
 
 
 ## Atenção
