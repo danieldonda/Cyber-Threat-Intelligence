@@ -1,13 +1,24 @@
 # Cyber Threat Intelligence
 Compartilhamento de informação sobre ameaças e recursos de pesquisa.
 
-[TOCM]
-[TOC]
+- [Cyber Threat Intelligence](#cyber-threat-intelligence)
+  * [Threat Intel](#threat-intel)
+  * [APT Groups](#apt-groups)
+  * [Threat hunting](#threat-hunting)
+  * [Threat hunting - hipótese](#threat-hunting---hip-tese)
+  * [Indicators of Compromise (IOCs)](#indicators-of-compromise--iocs-)
+  * [Indicators of Attack (IOAs)](#indicators-of-attack--ioas-)
+  * [LOLBins](#lolbins)
+  * [TTPs](#ttps)
+  * [LINKS](#links)
+  * [Quem seguir ?](#quem-seguir--)
+  * [Atenção](#aten--o)
+  * [:fire:Material sobre o conflito Ucrania e Russia 2022 (https://github.com/danieldonda/Cyber-Threat-Intelligence/tree/main/ukraine-russia)
 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## Threat Intel
-
 Em resumo Threat Intel é a coleta e analise de informações que permite entender possiveis ameaças antecipadamente e acelerar detecção ou resposta. Isso permite entender se existe a sua empresa é um possivel alvo de atores maliciosos seja por motivo `Geopolitico`, `Cyber-espionagem`, `competição industrial`, `sabotagem`, `hacktivismo`, entre outros.
 Essa analise permite entender se determinados comportamentos de ataque poderão ser direcionados a sua empresa e então tomar ações proativas. Isso é possivel pois no processo de coleta e análise de `CTI(Cyber Threat Intelligence)` vamos encontrar diversos artefatos que correlacionados indicam comportamentos ou relações com grupos especializados.
 
