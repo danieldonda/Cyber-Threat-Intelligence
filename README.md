@@ -28,7 +28,12 @@ O processo de `Threat hunting` pode ser dividido em três etapas:
 ------------
 ## Indicators of Compromise (IOCs)
 
-Um **IOC** é um dado forense que tem o potencial de identificar atividades maliciosas em um sistema. Em outras palavras, um IOC é uma forte indicação que alerta os **Threat Hunters** sobre uma ameaça potencial.
+Um **IOC** é um dado forense que tem o potencial de identificar atividades maliciosas em um sistema. Em outras palavras, um IOC é uma forte indicação que alerta os **Threat Hunters** sobre uma ameaça potencial. **Reativo**
+
+------------
+## Indicators of Attack (IOAs)
+
+Um **IOA** é um dado forense que tem o potencial de identificar atividades maliciosas em um sistema em andamento. Execução de códigos, Persistencia, Command Control, Movimentação Lateral. **Proativo**
 
 ------------
 ## LOLBins
@@ -38,9 +43,11 @@ LOLBins é o termo abreviado para Living Off the Land Binaries.
 LOLBins eram  usados em uma base pós-exploração, para ganhar persistência ou aumentar privilégios. Agora estão sendo usadas para contornar a detecção e ajudar na entrega de malware. O que significa que atores mal-intencionados podem usar esses LOLBins para atingir seus objetivos, sem depender de códigos ou arquivos específicos.
 https://lolbas-project.github.io/ 
 
+------------
 ## TTPs
 ![image](https://user-images.githubusercontent.com/16530643/158909630-e8a2f183-a7cb-4fea-b57b-73ab53ebbce6.png)
 
+Com a ajuda do MITRE ATTACK voc~e pode descobrir possíveis intrusões e identificar TTP (Táticas, Técnicas e Procedimentos) associados a ameaças que possam estar presentes na rede do cliente. 
 
 ------------
 ## LINKS
