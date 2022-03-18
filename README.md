@@ -12,7 +12,8 @@ Compartilhamento de informação sobre ameaças e recursos de pesquisa.
   * [TTPs](#ttps)
   * [LINKS](#links)
   * [Twitter Accounts](https://github.com/danieldonda/Cyber-Threat-Intelligence/tree/main/twitter.md)
-  * [:fire: Conflito Ucrania e Russia 2022](https://github.com/danieldonda/Cyber-Threat-Intelligence/tree/main/ukraine-russia)
+
+- [:fire: Conflito Ucrania e Russia 2022](https://github.com/danieldonda/Cyber-Threat-Intelligence/tree/main/ukraine-russia)
 
 
 ## Threat Intel
