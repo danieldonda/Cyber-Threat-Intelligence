@@ -11,7 +11,7 @@ Compartilhamento de informação sobre ameaças e recursos de pesquisa.
   * [LOLBins](#lolbins)
   * [TTPs](#ttps)
   * [LINKS](#links)
-  * [Quem seguir ?](https://github.com/danieldonda/Cyber-Threat-Intelligence/tree/main/twitter.md)
+  * [Twitter Accounts](https://github.com/danieldonda/Cyber-Threat-Intelligence/tree/main/twitter.md)
   * [:fire: Conflito Ucrania e Russia 2022](https://github.com/danieldonda/Cyber-Threat-Intelligence/tree/main/ukraine-russia)
 
 
