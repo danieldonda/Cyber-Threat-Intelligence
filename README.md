@@ -11,7 +11,7 @@ Compartilhamento de informação sobre ameaças e recursos de pesquisa.
   * [LOLBins](#lolbins)
   * [TTPs](#ttps)
   * [LINKS](#links)
-  * [Quem seguir ?](#quem-seguir-)
+  * [Quem seguir ?](https://github.com/danieldonda/Cyber-Threat-Intelligence/tree/main/twitter.md)
   * [:fire: Conflito Ucrania e Russia 2022](https://github.com/danieldonda/Cyber-Threat-Intelligence/tree/main/ukraine-russia)
 
 
@@ -86,13 +86,6 @@ Com a ajuda do MITRE ATTACK voc~e pode descobrir possíveis intrusões e identif
 - The Hive - https://thehive-project.org/
 - Yeti - https://yeti-platform.github.io/
 - PasteScraper - https://github.com/PimmyTrousers/pastescraper
-
-## Quem seguir ?
-- https://twitter.com/DarkReading 
-- https://twitter.com/threatpost 
-- https://twitter.com/checkmydump 
-- https://twitter.com/ale_sp_brazil
-- https://twitter.com/hackinarticles
 
 
 ## Atenção
