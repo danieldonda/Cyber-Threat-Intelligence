@@ -5,6 +5,6 @@ Existem centenas, talvez milhares de repositórios que podemos ter como referenc
 
 ## THREAT INTEL
 
-https://github.com/fastfire/deepdarkCTI
-https://github.com/mitre/cti
-https://github.com/mitre-attack/attack-navigator
+- https://github.com/fastfire/deepdarkCTI
+- https://github.com/mitre/cti
+- https://github.com/mitre-attack/attack-navigator
