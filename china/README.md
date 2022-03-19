@@ -7,8 +7,11 @@ Embora alguns detalhes permaneçam não confirmados, entende-se que a China orga
 - PLA - forças autorizadas" (授权力量) - especialistas em guerra de rede no Ministério da Segurança do Estado (MSS) e no Ministério da Segurança Pública (MPS).
 - Forças não-governamentais” (民间力量) - grupos civis que se envolvem espontaneamente em ataque e defesa de rede.[1]
 
+> Estima-se que existam cerca de 100.000 indivíduos no "exército hacker" chines
+
 *Fonte:https://en.wikipedia.org/wiki/Cyberwarfare_by_China*
 
+---------------
 ### Inimigos
 
 - Camboja
@@ -20,11 +23,12 @@ Embora alguns detalhes permaneçam não confirmados, entende-se que a China orga
 - Butão
 - Mongólia
 - Coreia do Sul
+- Estados Unidos
+- India
+
+> Brasil tem relação comercial e segue "neutro
+
+---------------
 
 
 
-A política externa forneceu um alcance estimado para o pessoal do "exército hacker" da China, de 50.000 a 100.000 indivíduos.[2]
-
-
-
-> cFica legal demais
