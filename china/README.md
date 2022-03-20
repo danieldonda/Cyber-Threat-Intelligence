@@ -9,7 +9,10 @@ Embora alguns detalhes permaneçam não confirmados, entende-se que a China orga
 
 > Estima-se que existam cerca de 100.000 indivíduos no "exército hacker" chines
 
+-
 *Fonte:https://en.wikipedia.org/wiki/Cyberwarfare_by_China*
+-
+
 ---------------
 ## Documentos
 - [2021-CMPR-FINAL.PDF](https://github.com/danieldonda/Cyber-Threat-Intelligence/blob/main/china/2021-CMPR-FINAL.PDF)
@@ -77,5 +80,7 @@ Ao contrário da maioria dos outros países, o Great Firewall da China significa
 - WeChat: mais um “motor de tudo” do que um mecanismo de pesquisa  
 - Shenma: o mecanismo de pesquisa chinês exclusivo para dispositivos móveis 
 
-** Fonte:https://www.dragonsocial.net/blog/top-chinese-search-engines/ ** 
 
+-
+*Fonte:https://www.dragonsocial.net/blog/top-chinese-search-engines/*
+-
