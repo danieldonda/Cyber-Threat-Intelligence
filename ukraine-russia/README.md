@@ -48,7 +48,7 @@ Fonte: https://www.aljazeera.com/news/2022/3/9/russia-ukraine-war-military-dispa
 | ------------ | ------------ | ------------ | 
 |UNC1151| |Bielo-Rússia|
 |[Gamaredon](https://attack.mitre.org/groups/G0047)|ACTINIUM,PrimitiveBear, Armageddon| |
-|UAC-0056 (SaintBear, UNC2589, TA471, Lorec53)  
+|UAC-0056 |SaintBear, UNC2589, TA471, Lorec53||
 |[APT28](https://attack.mitre.org/groups/G0007)|SNAKEMACKEREL,TG-4127,Swallowtail, Group 74, Sednit, Sofacy, Pawn Storm, Fancy Bear, STRONTIUM, Tsar Team, Threat Group-4127, TG-4127 | General Staff Main Intelligence Directorate (GRU) 85th Main Special Service Center (GTsSS) military unit 26165.
 |[APT29](https://attack.mitre.org/groups/G0016)|NobleBaron, Dark Halo, StellarParticle, NOBELIUM, UNC2452, YTTRIUM, The Dukes, Cozy Bear, CozyDuke | Foreign Intelligence Service (SVR).
 |[Indrik Spider](https://attack.mitre.org/groups/G0119)|Evil Corp| Russia-based cybercriminal group
