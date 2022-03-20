@@ -41,8 +41,17 @@ Fonte: https://www.aljazeera.com/news/2022/3/9/russia-ukraine-war-military-dispa
 - [Ghostwriter] https://www.darkreading.com/attacks-breaches/russian-apt-steps-up-malicious-activity-in-ukraine
 - [Gafgyt]  https://threats.kaspersky.com/br/threat/Backdoor.Linux.Gafgyt/
 -----------------------
-## APT Groups
-- UNC1151 :belarus: [Bielo-Rússia]
-- Gamaredon (ACTINIUM,PrimitiveBear, Armageddon) :ru: [Rússia]
-- UAC-0056 (SaintBear, UNC2589, TA471, Lorec53) :ru: [Rússia]
-- APT28 (TG-4127,FancyBear)  :ru: [Rússia]
+## GRUPO APT
+| GRUPO | AKA | INFO |
+| UNC1151 :belarus: [Bielo-Rússia]| | |
+| [Gamaredon](https://attack.mitre.org/groups/G0047) | ACTINIUM,PrimitiveBear, Armageddon | |
+
+- UAC-0056 (SaintBear, UNC2589, TA471, Lorec53)  
+- [APT28](https://attack.mitre.org/groups/G0007)SNAKEMACKEREL,TG-4127,Swallowtail, Group 74, Sednit, Sofacy, Pawn Storm, Fancy Bear, STRONTIUM, Tsar Team, Threat Group-4127, TG-4127 *INFO* General Staff Main Intelligence Directorate (GRU) 85th Main Special Service Center (GTsSS) military unit 26165.
+- [APT29](https://attack.mitre.org/groups/G0016) NobleBaron, Dark Halo, StellarParticle, NOBELIUM, UNC2452, YTTRIUM, The Dukes, Cozy Bear, CozyDuke *info* Foreign Intelligence Service (SVR).
+- [Indrik Spider](https://attack.mitre.org/groups/G0119) Evil Corp - Russia-based cybercriminal group
+- [Nomadic Octopus](https://attack.mitre.org/groups/G0133) DustSquad *Info* cyberespionage threat group
+- [Sandworm Team](https://attack.mitre.org/groups/G0034) ELECTRUM, Telebots, IRON VIKING, BlackEnergy (Group), Quedagh, VOODOO BEAR - Russia's General Staff Main Intelligence Directorate (GRU) Main Center for Special Technologies (GTsST) military unit 74455. https://attack.mitre.org/groups/G0034
+- [TEMP.Veles](https://attack.mitre.org/groups/G0088)XENOTIME
+- [Turla](https://attack.mitre.org/groups/G0010) Group 88, Belugasturgeon, Waterbug, WhiteBear, VENOMOUS BEAR, Snake, Krypton
+- [Wizard Spider](https://attack.mitre.org/groups/G0102) UNC1878, TEMP.MixMaster, Grim Spider Russia-based financially motivated threat group 
