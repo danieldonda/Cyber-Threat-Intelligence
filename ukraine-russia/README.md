@@ -25,6 +25,8 @@ Fonte: https://www.aljazeera.com/news/2022/3/9/russia-ukraine-war-military-dispa
 - [INFO] https://msrc-blog.microsoft.com/2022/02/28/analysis-resources-cyber-threat-activity-ukraine/?culture=en-us&country=US
 - [NEWS] https://www.ibm.com/blogs/psirt/an-update-on-russia-ukraine/ 
 - [NEWS] https://www.secureworks.com/blog/russia-ukraine-crisis
+- [NEWS] https://dciber.org/grupos-de-ataque-patrocinados-pelo-estado-capitalizam-a-guerra-russia-ucrania-por-espionagem-cibernetica/
+
 -----------------------
 ## Malwares
 - [HermeticWiper] https://www.welivesecurity.com/2022/02/24/hermeticwiper-new-data-wiping-malware-hits-ukraine/
@@ -57,3 +59,5 @@ Fonte: https://www.aljazeera.com/news/2022/3/9/russia-ukraine-war-military-dispa
 |[TEMP.Veles](https://attack.mitre.org/groups/G0088)|XENOTIME|
 |[Turla](https://attack.mitre.org/groups/G0010)|Group 88, Belugasturgeon, Waterbug, WhiteBear, VENOMOUS BEAR, Snake, Krypton|
 |[Wizard Spider](https://attack.mitre.org/groups/G0102)|UNC1878, TEMP.MixMaster, Grim Spider Russia-based|financially motivated threat group 
+|[El Machete](https://attack.mitre.org/groups/G0095/)|APT-C-43 |financially motivated threat group Local Nicarágua, Venezuela
+
