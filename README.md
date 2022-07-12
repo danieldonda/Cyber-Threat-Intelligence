@@ -89,13 +89,11 @@ https://lolbas-project.github.io/
 
 Com a ajuda do MITRE ATTACK você pode descobrir possíveis intrusões e identificar TTP (Táticas, Técnicas e Procedimentos) associados a ameaças que possam estar presentes na rede do cliente. 
 
-Digital Artifact Ontology
-O Mitre D3fend permite analisar atravpes de um gráfico de conhecimento de contramedidas a relação de artefatos e os ataques relacionados. Isso ajuda o profissional de threat hunting a mapear contramedidas que podem ajudar a enganar, detectar, proteger,despejar e isolar com base em determinado artefato. 
+O Mitre D3fend permite analisar através de um gráfico de conhecimento de contramedidas a relação de artefatos e os ataques relacionados. Isso ajuda o profissional de threat hunting a fazer mapeamentos de contramedidas que podem ajudar a enganar, detectar, proteger,despejar e isolar com base em determinado artefato. 
 
 🌐 https://d3fend.mitre.org/
 
 ![image](https://user-images.githubusercontent.com/16530643/178586443-3711add2-7afc-4e1f-bd87-e145f6e62e7b.png)
-
 
 ------------
 ## LINKS
