@@ -8,6 +8,7 @@ Compartilhamento de informação sobre ameaças e recursos de pesquisa.
   * [Threat hunting - hipótese](#threat-hunting---hip%C3%B3tese)
   * [Indicators of Compromise (IOCs)](#indicators-of-compromise-iocs)
   * [Indicators of Attack (IOAs)](#indicators-of-attack--ioas)
+  * [Manipulação de Malware](#Manipulação-de-Malware) 
   * [LOLBins](#lolbins)
   * [TTPs](#ttps)
   * [LINKS](#links)
