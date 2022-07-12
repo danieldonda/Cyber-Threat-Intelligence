@@ -48,6 +48,24 @@ O processo de `Threat hunting` pode ser dividido em três etapas:
 
 Um **IOC** é um dado forense que tem o potencial de identificar atividades maliciosas em um sistema. Em outras palavras, um IOC é uma forte indicação que alerta os **Threat Hunters** sobre uma ameaça potencial. **Reativo**
 
+## Indicators of Attack (IOAs)
+
+Um **IOA** é um dado forense que tem o potencial de identificar atividades maliciosas em um sistema em andamento. Execução de códigos, Persistencia, Command Control, Movimentação Lateral. **Proativo**
+
+- Padrões de tráfego incomuns entre sistemas internos
+- Padrões de uso incomuns para contas privilegiadas
+- Acesso administrativo à sua rede a partir de localizações geográficas insuspeitas
+- Um pico nos volumes de leitura do banco de dados
+- Alta taxa de tentativas e falhas de autenticação
+- Alterações de configuração incomuns
+
+Relacionados a isso temos DLLs, Scripts, Executaveis (PE), dominios, IPs e muitos outros artefatos.
+A melhor maneira de "rastrear" esses artefatos é gerando um HASH 
+Por exemplo 
+WinZip_24.exe c0f10b2cdd69a59ff90bfd2c5f9874585d859f9eb994cfa7bc54b9ec30c39508 
+
+Podemos usar um site como o https://www.browserling.com/tools/all-hashes para gerar hashes ou plataformas de hunting ou inteligencia podem gerar automaticamente. Por exemplo o https://www.virustotal.com/
+
 ------------
 ## Indicators of Attack (IOAs)
 
