@@ -95,6 +95,7 @@ Com a ajuda do MITRE ATTACK voc~e pode descobrir possíveis intrusões e identif
 - AlienVault OTX - https://otx.alienvault.com/
 - DORKS https://www.exploit-db.com/google-hacking-database 
 - Mitre ATT Navigator https://mitre-attack.github.io/attack-navigator/ 
+- MITRE D3FEND https://d3fend.mitre.org/
 - Using ATT&CK for CTI Training - https://attack.mitre.org/resources/training/cti/
 - YARA - http://virustotal.github.io/yara/ 
 - ThreatMiner - https://www.threatminer.org/
