@@ -71,9 +71,9 @@ Por exemplo o https://www.virustotal.com/ ou https://otx.alienvault.com/ irá ge
 
 Essa dica é mais importante para os analistas de malware do que aqueles que trabalham com threat intel ou threat hunting.  Porém pode ser provavel que em determinadas situações iremos escrever um documento ou manipular arquivos infectados.
 
-- Arquivos - Em geral são armazenados em um arquivo ZIP criptografado com a senha **infected**
-- URLs - Para enviar uma URL ou para escrever um artigo ou relatório usa-se hxxp://exemplo[.]com/malware.php 
-- Endereço IP - Similar a URLs para manter um endereço IP seguro usamos 192.168.0[.]100
+- **Arquivos** - Em geral são armazenados em um arquivo ZIP criptografado com a senha **infected**
+- **URLs** - Para enviar uma URL ou para escrever um artigo ou relatório usa-se hxxp://exemplo[.]com/malware.php 
+- **Endereço IP** - Similar a URLs para manter um endereço IP seguro usamos 192.168.0[.]100
 
 ------------
 ## LOLBins
