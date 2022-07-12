@@ -59,17 +59,20 @@ Um **IOA** é um dado forense que tem o potencial de identificar atividades mali
 - Alta taxa de tentativas e falhas de autenticação
 - Alterações de configuração incomuns
 
-Relacionados a isso temos DLLs, Scripts, Executaveis (PE), dominios, IPs e muitos outros artefatos.
-A melhor maneira de "rastrear" esses artefatos é gerando um HASH 
-Por exemplo 
+Relacionados a isso temos DLLs, Scripts, Executaveis (PE), dominios, IPs entre outros, e a melhor pratica para "rastrear" esses artefatos é gerando um HASH (FileHash-SHA256) 
+Por exemplo:
 WinZip_24.exe c0f10b2cdd69a59ff90bfd2c5f9874585d859f9eb994cfa7bc54b9ec30c39508 
 
-Podemos usar um site como o https://www.browserling.com/tools/all-hashes para gerar hashes ou plataformas de hunting ou inteligencia podem gerar automaticamente. Por exemplo o https://www.virustotal.com/
+Podemos usar um site como o https://www.browserling.com/tools/all-hashes para gerar hashes ou diretamente nas plataformas de hunting/inteligencia que podem gerar automaticamente. 
+Por exemplo o https://www.virustotal.com/ ou https://otx.alienvault.com/ irá gerar automaticamente um hash dos arquivos que você subir na plataforma.
 
-------------
-## Indicators of Attack (IOAs)
+## Manipulação de Malware 
 
-Um **IOA** é um dado forense que tem o potencial de identificar atividades maliciosas em um sistema em andamento. Execução de códigos, Persistencia, Command Control, Movimentação Lateral. **Proativo**
+Essa dica é mais importante para os analistas de malware do que aqueles que trabalham com threat intel ou threat hunting.  Porém pode ser provavel que em determinadas situações iremos escrever um documento ou manipular arquivos infectados.
+
+- Arquivos - Em geral são armazenados em um arquivo ZIP criptografado com a senha **infected**
+- URLs - Para enviar uma URL ou para escrever um artigo ou relatório usa-se hxxp://exemplo[.]com/malware.php 
+- Endereço IP - Similar a URLs para manter um endereço IP seguro usamos 192.168.0[.]100
 
 ------------
 ## LOLBins
