@@ -3,6 +3,7 @@ Compartilhamento de informação sobre ameaças e recursos de pesquisa.
 
 - [Cyber Threat Intelligence](#cyber-threat-intelligence)
   * [Threat Intel](#threat-intel)
+  * [Nation-State Hackers](#Nation-State-Hackers)
   * [APT Groups](#apt-groups)
   * [Threat hunting](#threat-hunting)
   * [Threat hunting - hipótese](#threat-hunting---hip%C3%B3tese)
@@ -20,6 +21,16 @@ Compartilhamento de informação sobre ameaças e recursos de pesquisa.
 ## Threat Intel
 Em resumo Threat Intel é a coleta e analise de informações que permite entender possiveis ameaças antecipadamente e acelerar detecção ou resposta. Isso permite entender se existe a sua empresa é um possivel alvo de atores maliciosos seja por motivo `Geopolitico`, `Cyber-espionagem`, `competição industrial`, `sabotagem`, `hacktivismo`, entre outros.
 Essa analise permite entender se determinados comportamentos de ataque poderão ser direcionados a sua empresa e então tomar ações proativas. Isso é possivel pois no processo de coleta e análise de `CTI(Cyber Threat Intelligence)` vamos encontrar diversos artefatos que correlacionados indicam comportamentos ou relações com grupos especializados.
+
+## Nation-State Hackers
+Nation-State Hackers ou Nation-State Threat Actor  é um termo usado para descrever grupos ou indivíduos que operam em nome de um governo específico, com o objetivo de realizar ataques cibernéticos para obter informações confidenciais, causar danos ou interromper operações. Eles podem se envolver em atividades como espionagem, roubo de propriedade intelectual, sabotagem e difamação. Esses atores podem ser agentes do governo, agências de inteligência ou outras organizações governamentais, ou podem ser indivíduos contratados ou patrocinados pelo governo.
+
+Alguns exemplos de Nation-State Threat Actor incluem:
+
+APT (Advanced Persistent Threat) grupos, como APT10, APT28, APT29, etc.
+Equipes de operações cibernéticas de países como Rússia, China, Coreia do Norte, Irã e EUA.
+Equipes de inteligência cibernética de países como Rússia, China, Coreia do Norte, Irã e EUA.
+É importante notar que a identificação de um Nation-State Threat Actor pode ser difícil, pois esses grupos geralmente operam de forma discreta e podem usar técnicas de ocultação para esconder sua origem. Além disso, as fronteiras entre atividades cibernéticas de espionagem, cybercrime e guerra cibernética podem ser nebulosas, e a intenção ou o objetivo de um ataque pode ser difícil de determinar.
 
 ## APT Groups
 Os grupos especializados que executam ataques cibernéticos sofisticados chamados de `APT(Advanced Persistent Threat)` . O termo APT também se refere a grupos de atores maliciosos, geralmente `nation state` ou `state-sponsored group`. Os grupos APT possuem gteralmente motivações políticas ou econômicas.
