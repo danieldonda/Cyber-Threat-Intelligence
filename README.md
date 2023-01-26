@@ -27,9 +27,9 @@ Nation-State Hackers ou Nation-State Threat Actor  é um termo usado para descre
 
 Alguns exemplos de Nation-State Threat Actor incluem:
 
-APT (Advanced Persistent Threat) grupos, como APT10, APT28, APT29, etc.
-Equipes de operações cibernéticas de países como Rússia, China, Coreia do Norte, Irã e EUA.
-Equipes de inteligência cibernética de países como Rússia, China, Coreia do Norte, Irã e EUA.
+- APT (Advanced Persistent Threat) grupos, como APT10, APT28, APT29, etc.
+- Equipes de operações cibernéticas de países como Rússia, China, Coreia do Norte, Irã e EUA.
+
 É importante notar que a identificação de um Nation-State Threat Actor pode ser difícil, pois esses grupos geralmente operam de forma discreta e podem usar técnicas de ocultação para esconder sua origem. Além disso, as fronteiras entre atividades cibernéticas de espionagem, cybercrime e guerra cibernética podem ser nebulosas, e a intenção ou o objetivo de um ataque pode ser difícil de determinar.
 
 ## APT Groups
